@@ -55,9 +55,9 @@ Implemented a GraphQL server that using Node and Express to communicate to a Mon
 
 To Register: Make any username annd email you want(It should have the @ usual regex in it), password and confirm password should be same , otherwise it raises the error!!
 
-Working Sample Account: userX, userx@email.com, Password:123456, Confirm password:123456
+Working Sample Account: userX, userx@email.com, Password : 123456, Confirm password : 123456
 
-If you have already registered, you can loin with the same creds you gave for registration otherwise it pop ups the error!!
+If you have already registered, you can loin with the same creds you gave for registration otherwise it displays the error!!
 
 The list of resources that I used for building this project are listed in the acknowledgements.
 
