@@ -61,8 +61,8 @@ If you have already registered, you can loin with the same creds you gave for re
 
 #### For deployment ,we will be using Netlify for frontend that is from ReactJs code. And for node js and express we will be using Heroku.
 
-* The merng-client folder contains the client code and it is deployed in [Netlify - One of the best tools for automating modern web projects](https://www.netlify.com/)
-* The merng-server folder contains server related code including authentication and it is deployed in [Heroku: Cloud Application Platform](https://www.heroku.com)
+* The merng-client folder contains the client code and it is deployed in [Netlify](https://www.netlify.com/)  - One of the best tools for automating modern web projects
+* The merng-server folder contains server related code including authentication and it is deployed in [Heroku](https://www.heroku.com) - platform as a service (PaaS) tool that enables developers to build, run, and operate applications entirely in the cloud.
 
 The list of resources that I used for building this project are listed in the acknowledgements.
 
