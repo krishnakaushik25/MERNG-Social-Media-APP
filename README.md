@@ -126,4 +126,4 @@ Any contributions you make are **greatly appreciated**.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/homepage.png
+[product-screenshot]: images/homepage2.png
