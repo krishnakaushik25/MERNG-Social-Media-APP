@@ -59,6 +59,11 @@ Working Sample Account: userx, userx@email.com, Password : 123456, Confirm passw
 
 If you have already registered, you can loin with the same creds you gave for registration otherwise it displays the error!!
 
+#### For deployment ,we will be using Netlify for frontend that is from ReactJs code. And for node js and express we will be using Heroku.
+
+* The merng-client folder contains the client code and it is deployed in [Netlify - One of the best tools for automating modern web projects](https://www.netlify.com/)
+* The merng-server folder contains server related code including authentication and it is deployed in [Heroku: Cloud Application Platform](https://www.heroku.com)
+
 The list of resources that I used for building this project are listed in the acknowledgements.
 
 ### Built With
@@ -111,6 +116,7 @@ Any contributions you make are **greatly appreciated**.
 ## Acknowledgements
 * [Github repo of Classed](https://github.com/hidjou/classsed-graphql-mern-apollo)
 * [Learn GraphQL with React front-end (with Apollo) and MongoDB to store data](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+* [Deploy and Host a MERN Application Tutorial In Heroku and Netlify](https://www.youtube.com/watch?v=Cx_qYwBM5W4)
 
 
 
