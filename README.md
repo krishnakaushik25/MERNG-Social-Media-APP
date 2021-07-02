@@ -13,8 +13,6 @@
   <p align="center">
     A Full stack, fully-featured social media application!
     <br />
-    
-    <br />
     <a href="https://nervous-swanson-31f8b1.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/krishnakaushik25/MERNG-Social-Media-APP/issues">Report Bug</a>
