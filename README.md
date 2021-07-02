@@ -33,10 +33,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-   
-    
     <li><a href="#installation">Installation</a></li>
-
     <li><a href="#Features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
