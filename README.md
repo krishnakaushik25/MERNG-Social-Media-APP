@@ -83,7 +83,7 @@ Major frameworks that are used in the project.
    ```sh
    git clone https://github.com/krishnakaushik25/MERNG-Social-Media-APP.git
    ```
-2. Install NPM packages
+2. Install NPM packages ( all dependencies are mentioned in pakage.json files of both sever and client ).
    ```sh
    npm install
    ```
