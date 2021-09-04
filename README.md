@@ -1,6 +1,8 @@
 # MERNG-Social-Media-APP
 
 
+This application is disbbaled for now due to restrictions on deployment. I have crossed my limit of maximum of 5 apps for free deployment. I will recreate this project with new additional features in future with more styling components and make the site activated.
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
